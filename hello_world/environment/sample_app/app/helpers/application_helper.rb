@@ -5,7 +5,7 @@ module ApplicationHelper
     base_title = "Ruby on Rails Tutorial Sample App"  # Variable assignment
     if page_title.empty?                              # Boolean test
       base_title                                      # Implicit return
-    else                    
+    else
       page_title + " | " + base_title                 # String concatenation
     end
   end
