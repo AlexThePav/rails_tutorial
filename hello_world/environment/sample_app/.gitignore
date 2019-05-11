@@ -29,3 +29,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Ignore migrations
+# /db/migrate/*
+/db/migrate/20190509202932_create_users.rb
