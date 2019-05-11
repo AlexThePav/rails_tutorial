@@ -32,4 +32,3 @@
 
 # Ignore migrations
 # /db/migrate/*
-/db/migrate/20190509202932_create_users.rb
